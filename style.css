@@ -252,7 +252,7 @@ a:before, a:after {
    ========================================================================== */
 
 #headerwrap {
-  background: url("../header_bg.jpg") no-repeat center top;
+  background: url("https://kuboyu0409.github.io/oceans.network2020/header_bg.jpg") no-repeat center top;
   margin-top: -50px;
   padding-top: 120px;
   text-align: center;
@@ -384,24 +384,24 @@ a:before, a:after {
 /* Section Dividers Backgrounds */
 
 .divider1 {
-  background-image: url('../img/bg/divider1.jpg')
+  background-image: url('https://kuboyu0409.github.io/oceans.network2020/img/bg/divider1.jpg')
 }
 
 .divider2 {
-  background-image: url('../img/bg/divider2.jpg')
+  background-image: url('https://kuboyu0409.github.io/oceans.network2020/img/bg/divider2.jpg')
 }
 
 .divider3 {
-  background-image: url('../img/bg/divider3.jpg');
+  background-image: url('https://kuboyu0409.github.io/oceans.network2020/img/bg/divider3.jpg');
   margin-top: 0px;
 }
 
 .divider4 {
-  background-image: url('../img/bg/divider4.jpg')
+  background-image: url('https://kuboyu0409.github.io/oceans.network2020/img/bg/divider4.jpg')
 }
 
 .divider6 {
-  background-image: url('../img/bg/divider6.jpg')
+  background-image: url('https://kuboyu0409.github.io/oceans.network2020/img/bg/divider6.jpg')
 }
 
 /* ==========================================================================

@@ -1,4 +1,5 @@
 
+
 html, button, input, select, textarea {
   color: #222;
 }
@@ -224,7 +225,7 @@ a:before, a:after {
    ========================================================================== */
 
 #headerwrap {
-  background: url(../img/header_bg.jpg) no-repeat center top;
+  background: url(https://github.com/kuboyu0409/oceans.network2020/blob/master/img/header_bg.jpg) no-repeat center top;
   margin-top: -50px;
   padding-top: 120px;
   text-align: center;

@@ -351,24 +351,24 @@ a:before, a:after {
 
 
 .divider1 {
-  background-image: url('../img/bg/divider1.jpg')
+  background-image: url('https://images.unsplash.com/photo-1530863666585-c8996c9f729c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60');
 }
 
 .divider2 {
-  background-image: url('../img/bg/divider2.jpg')
+  background-image: url('https://images.unsplash.com/photo-1530863666585-c8996c9f729c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60');
 }
 
 .divider3 {
-  background-image: url('../img/bg/divider3.jpg');
+  background-image: url('https://images.unsplash.com/photo-1530863666585-c8996c9f729c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60');
   margin-top: 0px;
 }
 
 .divider4 {
-  background-image: url('../img/bg/divider4.jpg')
+  background-image: url('https://images.unsplash.com/photo-1530863666585-c8996c9f729c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60');
 }
 
 .divider6 {
-  background-image: url('../img/bg/divider6.jpg')
+  background-image: url('https://images.unsplash.com/photo-1530863666585-c8996c9f729c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60');
 }
 
 

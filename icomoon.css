@@ -1,11 +1,11 @@
 
 @font-face {
 	font-family: 'icomoon';
-	src:url('https://kuboyu0409.github.io/oceans.network2020/fonts/icomoon.eot');
-	src:url('https://kuboyu0409.github.io/oceans.network2020/fonts/icomoon-.eot#iefix') format('embedded-opentype'),
-		url('https://kuboyu0409.github.io/oceans.network2020/fonts/icomoon.woff') format('woff'),
-		url('https://kuboyu0409.github.io/oceans.network2020/fonts/icomoon.ttf') format('truetype'),
-		url('https://kuboyu0409.github.io/oceans.network2020/fonts/icomoon.svg.txt#icomoon') format('svg');
+	src:url('https://kuboyu0409.github.io/oceans.network2020/icomoon.eot');
+	src:url('https://kuboyu0409.github.io/oceans.network2020/icomoon-.eot#iefix') format('embedded-opentype'),
+		url('https://kuboyu0409.github.io/oceans.network2020/icomoon.woff') format('woff'),
+		url('https://kuboyu0409.github.io/oceans.network2020/icomoon.ttf') format('truetype'),
+		url('https://kuboyu0409.github.io/oceans.network2020/icomoon.svg.txt#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
